@@ -1,0 +1,11 @@
+*-debug.log
+*-error.log
+.nyc_output
+dist/
+lib/
+node_modules
+*.tsbuildinfo
+.idea
+coverage
+.DS_Store
+.docs
